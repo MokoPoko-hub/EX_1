@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 add new file11
+=======
+no we
+>>>>>>> new_branch
